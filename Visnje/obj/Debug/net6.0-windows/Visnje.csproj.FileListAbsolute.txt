@@ -1,0 +1,34 @@
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.Form1.resources
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.AssemblyInfo.cs
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\bin\Debug\net6.0-windows\Visnje.exe
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\bin\Debug\net6.0-windows\Visnje.deps.json
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\bin\Debug\net6.0-windows\Visnje.runtimeconfig.json
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\bin\Debug\net6.0-windows\Visnje.dll
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\bin\Debug\net6.0-windows\Visnje.pdb
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.dll
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\obj\Debug\net6.0-windows\refint\Visnje.dll
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.pdb
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.genruntimeconfig.cache
+C:\Users\filip\Desktop\C# Maturski zadaci\Visnje\Visnje\obj\Debug\net6.0-windows\ref\Visnje.dll
+C:\Users\filip\Desktop\Visnje\Visnje\bin\Debug\net6.0-windows\Visnje.exe
+C:\Users\filip\Desktop\Visnje\Visnje\bin\Debug\net6.0-windows\Visnje.deps.json
+C:\Users\filip\Desktop\Visnje\Visnje\bin\Debug\net6.0-windows\Visnje.runtimeconfig.json
+C:\Users\filip\Desktop\Visnje\Visnje\bin\Debug\net6.0-windows\Visnje.dll
+C:\Users\filip\Desktop\Visnje\Visnje\bin\Debug\net6.0-windows\Visnje.pdb
+C:\Users\filip\Desktop\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.Form1.resources
+C:\Users\filip\Desktop\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.AssemblyInfo.cs
+C:\Users\filip\Desktop\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.dll
+C:\Users\filip\Desktop\Visnje\Visnje\obj\Debug\net6.0-windows\refint\Visnje.dll
+C:\Users\filip\Desktop\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.pdb
+C:\Users\filip\Desktop\Visnje\Visnje\obj\Debug\net6.0-windows\Visnje.genruntimeconfig.cache
+C:\Users\filip\Desktop\Visnje\Visnje\obj\Debug\net6.0-windows\ref\Visnje.dll
